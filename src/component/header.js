@@ -13,10 +13,10 @@ const Header = () => {
       }}
     >
       <div>
-        <img src={searcimg} />
-        <img src={equalizer} />
-        <img src={shoping} />
-        <img src={fourblock} />
+        <img src={searcimg} alt="search" />
+        <img src={equalizer} alt="equlizer" />
+        <img src={shoping} alt="shopping" />
+        <img src={fourblock} alt="four" />
       </div>
       <div
         style={{
